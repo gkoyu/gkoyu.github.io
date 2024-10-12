@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Haizhou Xu"
-  avatar           : "images/Haizhou-Xu.jpg"
+  name             : "Yujia Yu"
+  avatar           : "images/Yujia.jpg"
   bio              : # "Mechanical and Electrical Engineering College"
   location         : "Guangzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=QaCAIFAAAAAJ&hl=zh-CN"
-  email            : "2007700059@e.gzhu.edu.cn"
+  email            : "2007700026@e.gzhu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "aichifandefan"
+  github           : "gkoyu"
   google_plus      :
   keybase          :
   instagram        :
