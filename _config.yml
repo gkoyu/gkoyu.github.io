@@ -6,14 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yujia Yu"
-description              : "Life is a wilderness, not a track. "
-repository               : "gkoyu/gkoyu.github.io"
-<<<<<<< HEAD
+title                    : "Haizhou Xu"
+description              : "Stay hungry, stay foolish"
+repository               : "aichifandefan/aichifandefan.github.io"
 google_scholar_stats_use_cdn : false
-=======
-google_scholar_stats_use_cdn : true
->>>>>>> parent of 300f019 (update)
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -25,24 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yujia Yu"
-<<<<<<< HEAD
+  name             : "Haizhou Xu"
   avatar           : "images/Haizhou-Xu.jpg"
   bio              : # "Mechanical and Electrical Engineering College"
   location         : "Guangzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=QaCAIFAAAAAJ&hl=zh-CN"
-  email            : "2007700026@e.gzhu.edu.cn"
-=======
-  avatar           : "images/profile.JPG"
-  bio              : "Mechanical and Electrical Engineering College"
-  location         : "Guangzhou, China"
-  employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=QaCAIFAAAAAJ&hl=zh-CN"
-  email            : "yujiayu@e.gzhu.edu.cn"
->>>>>>> parent of 300f019 (update)
+  email            : "2007700059@e.gzhu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -51,11 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-<<<<<<< HEAD
-  github           : "gkoyu"
-=======
-  github           : # e.g., "gkoyu"
->>>>>>> parent of 300f019 (update)
+  github           : "aichifandefan"
   google_plus      :
   keybase          :
   instagram        :
@@ -63,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-2851-4340"
+  orcid            : "http://orcid.org/0000-0001-7288-9732"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -75,7 +57,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  
 
 
 # Reading Files
