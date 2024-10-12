@@ -9,7 +9,7 @@
 title                    : "Yujia Yu"
 description              : "Life is a wilderness, not a track. "
 repository               : "gkoyu/gkoyu.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
