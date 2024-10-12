@@ -22,11 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yujia Yu"
-<<<<<<< HEAD
   avatar           : "images/profile.JPG"
-=======
-  avatar           : "images/profile_.JPG"
->>>>>>> parent of 053e0d6 (Update _config.yml)
   bio              : "Mechanical and Electrical Engineering College"
   location         : "Guangzhou, China"
   employer         :
