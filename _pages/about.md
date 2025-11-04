@@ -17,9 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m a senior student majoring in Robotics Engineering at [Guangzhou University](https://www.gzhu.edu.cn/). I joined the AI lab in my freshman year of college, and I am very fortunate to be advised by [Prof. Huang](https://jd.gzhu.edu.cn/info/1150/3954.htm) from Guangzhou University. My research interest includes：
-- **Machine Learning**
+I am an MPhil candidate in Computer Science and Technology at Beijing Normal-Hong Kong Baptist University(https://www.uic.edu.cn/en/), advised by Dr. Bingqing Qu(https://staff.uic.edu.cn/bingqingqu/en).
+Previously, I obtained my B.E. in Robotics Engineering from Guangzhou University(https://www.gzhu.edu.cn/)., where I worked with [Prof. Wenkai Huang](https://jd.gzhu.edu.cn/info/1150/3954.htm) in the AI Lab. During my undergraduate studies, I began exploring the intersection of machine learning and real-world applications in healthcare and multimedia understanding.
+ My research interest includes：
+- **Video Understanding**
 - **Computer Vision**
+- **Multimodal Learning**
 - **Music Generation**
 -  **Medical Image Processing**
   
@@ -47,26 +50,28 @@ Wenkai Huang,**Yujia Yu**, Haizhou Xu, **IEEE Access**    |   [Link](https://iee
 - MRP-Net: Seizure detection method based on modified recurrence plot and additive attention convolution neural network <br/> 
 Wenkai Huang, Haizhou Xu, **Yujia Yu**, **Biomedical Signal Processing and Control**     |   [Link](https://www.sciencedirect.com/science/article/pii/S1746809423005980)  |  [paper](../images/MRP-Net Seizure detection method based on modifie.pdf)
 
-- Self-Supervised Hyperbolic Metric Few-Shot Learning for Occult Lymph Node Metastasis Prediction in NSCLC <br/> 
+- Occult lymph node metastasis prediction in non-small cell lung cancer based self-supervised pretrained and hyperbolic theory <br/> 
 Haizhou Xu, Jiaqi Wu, **Yujia Yu**, Wenkai Huang, Jiong Ni, **Applied Soft Computing**    |   [Link](https://www.sciencedirect.com/science/article/abs/pii/S1568494624007233?via%3Dihub) |  [paper](../images/Self-Supervised Hyperbolic Metric Few-Shot Learning for Occult Lymph Node Metastasis Prediction in NSCLC.pdf) <br/>
   
 
 # 🏅 Honors and Awards
-- *2023.10*   National Scholarship. 
-- *2023.10*   Outstanding Student.
+- *2024.04*   Second-Class Scholarship. 
+- *2024.04*   Outstanding Student(Top 8%).
+- *2023.10*   National Scholarship (Top 1%). 
+- *2023.10*   Outstanding Student(Top 8%).
 - *2022.11*   Outstanding Individual in both Virtue and Talent.
-- *2022.11*   The Second Prize Scholarship.
+- *2022.11*   Second-Class Scholarship.
 - *2022.11*   Excellent Student Cadre.
-- *2021.10*   The First Prize Scholarship.
-- *2021.10*   Outstanding Student.
+- *2021.10*   First-Class Scholarship(Top 8%).
+- *2021.10*   Outstanding Student(Top 8%).
 
 # 📖 Educations
-- *2020.09 - 2023.10 (now)*, Robot Engineering(BE), Guangzhou University.
+- *2020.09 - 2024.07*, Robot Engineering(BE), Guangzhou University.
+- *2024.09 -(now)*,  Computer Science and Technology(MPhil),Beijing Normal-Hong Kong Baptist University.
 
 # 🌺 Interest
 - Calligraphy
 - Painting
-- Watching Movies
 
 # 🦄 Welcome to my website
 
