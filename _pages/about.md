@@ -67,7 +67,7 @@ Haizhou Xu, Jiaqi Wu, **Yujia Yu**, Wenkai Huang, Jiong Ni, **Applied Soft Compu
 
 # 📖 Educations
 - *2020.09 - 2024.07*, Robot Engineering(BE), Guangzhou University.
-- *2024.09 -(now)*,  Computer Science and Technology(MPhil),Beijing Normal-Hong Kong Baptist University.
+- *2024.09 - (now)*,  Computer Science and Technology(MPhil),Beijing Normal-Hong Kong Baptist University.
 
 # 🌺 Interest
 - Calligraphy
