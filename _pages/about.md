@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an MPhil candidate in Computer Science and Technology at Beijing Normal-Hong Kong Baptist University(https://www.uic.edu.cn/en/), advised by Dr. Bingqing Qu(https://staff.uic.edu.cn/bingqingqu/en).
-Previously, I obtained my B.E. in Robotics Engineering from Guangzhou University(https://www.gzhu.edu.cn/)., where I worked with [Prof. Wenkai Huang](https://jd.gzhu.edu.cn/info/1150/3954.htm) in the AI Lab. During my undergraduate studies, I began exploring the intersection of machine learning and real-world applications in healthcare and multimedia understanding.
+I am an MPhil candidate in Computer Science and Technology at [Beijing Normal-Hong Kong Baptist University](https://www.uic.edu.cn/en/), advised by [Dr. Bingqing Qu](https://staff.uic.edu.cn/bingqingqu/en).
+Previously, I obtained my B.E. in Robotics Engineering from [Guangzhou University](https://www.gzhu.edu.cn/)., where I worked with [Prof. Wenkai Huang](https://jd.gzhu.edu.cn/info/1150/3954.htm) in the AI Lab. During my undergraduate studies, I began exploring the intersection of machine learning and real-world applications in healthcare and multimedia understanding.
  My research interest includes：
 - **Video Understanding**
 - **Computer Vision**
