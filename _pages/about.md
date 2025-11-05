@@ -26,7 +26,7 @@ Previously, I obtained my B.E. in Robotics Engineering from [Guangzhou Universit
 - **Music Generation**
 -  **Medical Image Processing**
   
-You can find my CV here:[ Yujia Yu’s Curriculum Vitae](../images/CV.pdf).
+You can find my CV here:[ Yujia Yu’s Curriculum Vitae](../files/CV.pdf).
 
 
 # 🔥 News
