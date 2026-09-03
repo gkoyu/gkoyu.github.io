@@ -48,7 +48,7 @@ You can find my CV here:[ Yujia Yu’s Curriculum Vitae](../files/CV.pdf).
   
 - This paper proposes a Hyperbolic Music Transformer model, which considers the hierarchy in music and models the structured components of music in hyperbolic space. Meanwhile, in order for the network to have sufficient capacity to learn music data with hierarchical and power regular structure, a hyperbolic attention mechanism is proposed, which is an extension of the attention mechanism in hyperbolic space based on the definition of hyperboloid and Klein model. </div> </div> 
 
-- MRP-Net: Seizure detection method based on modified recurrence plot and additive attention convolution neural network <br/> Wenkai Huang, Haizhou Xu, **Yujia Yu**, **Biomedical Signal Processing and Control** | [Link](https://www.sciencedirect.com/science/article/pii/S1746809423005980) | [paper](../images/MRP-Net Seizure detection method based on modifie.pdf)
+- MRP-Net: Seizure detection method based on modified recurrence plot and additive attention convolution neural network <br/> Wenkai Huang, Haizhou Xu, **Yujia Yu**, **Biomedical Signal Processing and Control** | [Link](https://www.sciencedirect.com/science/article/pii/S1746809423005980) | [paper](../images/MRP-Net Seizure detection method based on modifie.pdf)<br/>
 
 - Occult lymph node metastasis prediction in non-small cell lung cancer based self-supervised pretrained and hyperbolic theory <br/> Haizhou Xu, Jiaqi Wu, **Yujia Yu**, Wenkai Huang, Jiong Ni, **Applied Soft Computing** | [Link](https://www.sciencedirect.com/science/article/abs/pii/S1568494624007233?via%3Dihub) | [paper](../images/Self-Supervised Hyperbolic Metric Few-Shot Learning for Occult Lymph Node Metastasis Prediction in NSCLC.pdf) <br/>
   
