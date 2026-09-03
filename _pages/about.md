@@ -30,6 +30,7 @@ You can find my CV here:[ Yujia Yu’s Curriculum Vitae](../files/CV.pdf).
 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 ‘MomentMamba: Efficient collaborative state space modeling for joint video moment retrieval and highlight detection’ have been accepted by Big Data Research.
 - *2024.06*: &nbsp;🎉🎉 ‘Occult lymph node metastasis prediction in non-small cell lung cancer based self-supervised pretrained and hyperbolic theory’ have been accepted by Applied Soft Computing.
 - *2023.10*: &nbsp;🎉🎉 I received a national scholarship.
 - *2023.05*: &nbsp;🎉🎉 ‘MRP-Net: Seizure detection method based on modified recurrence plot and additive attention convolution neural network’ have been accepted by Biomedical Signal Processing and Control.
@@ -70,7 +71,7 @@ Haizhou Xu, Jiaqi Wu, **Yujia Yu**, Wenkai Huang, Jiong Ni, **Applied Soft Compu
 
 # 📖 Educations
 - *2020.09 - 2024.07*, Robot Engineering(BE), Guangzhou University.
-- *2024.09 - 2026.07*,  Computer Science and Technology(MPhil), Beijing Normal-Hong Kong Baptist University.
+- *2024.09 - 2026.07*, Computer Science and Technology(MPhil), Beijing Normal-Hong Kong Baptist University.
 
 # 🌺 Interest
 - Calligraphy
