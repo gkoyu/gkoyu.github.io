@@ -36,14 +36,13 @@ You can find my CV here:[ Yujia Yu’s Curriculum Vitae](../files/CV.pdf).
 - *2023.03*: &nbsp;🎉🎉 ‘Hyperbolic Music Transformer for Structured Music Generation’ have been accepted by IEEE Access.
 
 # 📝 Publications 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div><div class="badge">
-      new</div><img src='images/Momentmamba.png' alt="sym" width="220"></div></div> <div class='paper-box-text' markdown="1"> - MomentMamba: Efficient collaborative state space modeling for joint video moment retrieval and highlight detection<br/> **Yujia Yu**, Hongjian Shi, Bingqing Qu, **Big Data Research** | [Link](https://www.sciencedirect.com/science/article/pii/S221457962600033X) | [paper](../images/Momentmamba.pdf)<br/> 
+<div class='paper-box'> <div class='paper-box-image'> <div><div class="badge">
+new</div><img src='images/Momentmamba.png' alt="sym" width="220"></div></div> <div class='paper-box-text' markdown="1">
+  
+- MomentMamba: Efficient collaborative state space modeling for joint video moment retrieval and highlight detection<br/> **Yujia Yu**, Hongjian Shi, Bingqing Qu, **Big Data Research** | [Link](https://www.sciencedirect.com/science/article/pii/S221457962600033X) | [paper](../images/Momentmamba.pdf)<br/> 
         
 - Joint Video Moment Retrieval (MR) and Highlight Detection (HD) are essential for understanding the ever-growing volume of video content. Existing Transformer-based methods often struggle with misaligned features in complex video-text scenarios and quadratic computational costs. To overcome these bottlenecks, we propose MomentMamba, a unified and efficient framework built upon Selective State Space Models (Mamba). First, we design a multimodal alignment module that integrates Optimal Transport (OT)-based local alignment with a global contrastive strategy, enabling precise and robust semantic alignment between video and text at both token and modality levels. Second, we propose a novel Mamba-based highly-efficient architecture that comprises a Collaborative Mamba module to efficiently capture both modality-specific information and cross-modal
-interactions, and a Mamba decoder that enables joint MR and HD prediction, which effectively avoids high computational costs.  </div>
-</div>
+interactions, and a Mamba decoder that enables joint MR and HD prediction, which effectively avoids high computational costs.</div></div>
 
 
 - <div class='paper-box'><div class='paper-box-image'><div><div class="badge">new</div><img src='images/GA.jpg' alt="sym" width="220"></div></div> <div class='paper-box-text' markdown="1">
