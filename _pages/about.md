@@ -37,6 +37,7 @@ You can find my CV here:[ Yujia Yu’s Curriculum Vitae](../files/CV.pdf).
 - *2023.03*: &nbsp;🎉🎉 ‘Hyperbolic Music Transformer for Structured Music Generation’ have been accepted by IEEE Access.
 
 # 📝 Publications 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">new</div><img src='images/Momentmamba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
