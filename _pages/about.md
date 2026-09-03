@@ -37,42 +37,13 @@ You can find my CV here:[ Yujia Yu’s Curriculum Vitae](../files/CV.pdf).
 - *2023.03*: &nbsp;🎉🎉 ‘Hyperbolic Music Transformer for Structured Music Generation’ have been accepted by IEEE Access.
 
 # 📝 Publications 
-
-<style>
-.paper-box {
-  display: flex;
-  align-items: flex-start;
-  gap: 20px;
-  margin-bottom: 25px;
-}
-
-.paper-box-image {
-  width: 220px;
-  flex-shrink: 0;
-}
-
-.paper-box-image img {
-  width: 220px;
-  height: 160px;
-  object-fit: contain;
-}
-
-.paper-box-image > div {
-  position: relative;
-}
-
-.badge {
-  position: absolute;
-  z-index: 1;
-}
-</style>
-
-
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge">new</div>
-      <img src='images/Momentmamba.png' alt="MomentMamba">
+      <img src='images/Momentmamba.png'
+           alt="MomentMamba"
+           style="width:220px; height:160px; object-fit:contain;">
     </div>
   </div>
 
@@ -91,7 +62,9 @@ You can find my CV here:[ Yujia Yu’s Curriculum Vitae](../files/CV.pdf).
   <div class='paper-box-image'>
     <div>
       <div class="badge">new</div>
-      <img src='images/GA.jpg' alt="Hyperbolic Music Transformer">
+      <img src='images/GA.jpg'
+           alt="Hyperbolic Music Transformer"
+           style="width:220px; height:160px; object-fit:contain;">
     </div>
   </div>
 
@@ -106,12 +79,12 @@ Wenkai Huang, **Yujia Yu**, Haizhou Xu, **IEEE Access** | [Link](https://ieeexpl
 </div>
 
 
-- MRP-Net: Seizure detection method based on modified recurrence plot and additive attention convolution neural network <br/> 
+- MRP-Net: Seizure detection method based on modified recurrence plot and additive attention convolution neural network <br/>
 Wenkai Huang, Haizhou Xu, **Yujia Yu**, **Biomedical Signal Processing and Control** | [Link](https://www.sciencedirect.com/science/article/pii/S1746809423005980) | [paper](../images/MRP-Net Seizure detection method based on modifie.pdf)
 
 
-- Occult lymph node metastasis prediction in non-small cell lung cancer based self-supervised pretrained and hyperbolic theory <br/> 
-Haizhou Xu, Jiaqi Wu, **Yujia Yu**, Wenkai Huang, Jiong Ni, **Applied Soft Computing** | [Link](https://www.sciencedirect.com/science/article/abs/pii/S1568494624007233?via%3Dihub) | [paper](../images/Self-Supervised Hyperbolic Metric Few-Shot Learning for Occult Lymph Node Metastasis Prediction in NSCLC.pdf) <br/>
+- Occult lymph node metastasis prediction in non-small cell lung cancer based self-supervised pretrained and hyperbolic theory <br/>
+Haizhou Xu, Jiaqi Wu, **Yujia Yu**, Wenkai Huang, Jiong Ni, **Applied Soft Computing** | [Link](https://www.sciencedirect.com/science/article/abs/pii/S1568494624007233?via%3Dihub) | [paper](../images/Self-Supervised Hyperbolic Metric Few-Shot Learning for Occult Lymph Node Metastasis Prediction in NSCLC.pdf)<br/>
 
 # 🏅 Honors and Awards
 - *2024.04*   Second-Class Scholarship. 
