@@ -2,10 +2,15 @@
 ---
 
 /*
- * Minimal Mistakes Jekyll Theme
- */
+ *    Minimal Mistakes Jekyll Theme
+ *
+ *  - Michael Rose
+ *  - mademistakes.com
+ *  - https://twitter.com/mmistakes
+ *
+*/
 
-@import "vendor/breakpoint/breakpoint";
+@import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
 @import "vendor/susy/susy";
@@ -35,29 +40,20 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-
-/* ==============================
-   Publication paper box
-   ============================== */
-
 .paper-box {
     display: flex;
-    align-items: flex-start;
-    gap: 24px;
-
-    width: 100%;
-    padding: 1.5em 0;
-    border-bottom: 1px solid #efefef;
-
-    box-sizing: border-box;
+    justify-content: left;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-bottom: 1px #efefef solid;
+    padding: 2em 0 2em 0;
 
     .paper-box-image {
-        flex: 0 0 34%;
-        min-width: 0;
-
+        justify-content: center;
         display: flex;
-        align-items: flex-start;
-        justify-content: flex-start;
+        width: 100%;
+        order: 2;
 
         > div {
             position: relative;
@@ -65,95 +61,53 @@
         }
 
         img {
-            display: block;
-
             width: 100%;
+            max-width: 400px;
             height: auto;
-
-            max-width: 100%;
-
+            display: block;
             box-shadow: 3px 3px 6px #888;
-        }
-
-        .badge {
-            position: absolute;
-
-            top: 8px;
-            left: -6px;
-
-            z-index: 2;
-
-            margin: 0;
-            padding: 0.25em 0.9em;
-
-            color: white;
-            background-color: #00369f;
-
-            font-size: 0.8em;
-            line-height: 1.4;
+            object-fit: cover;
         }
     }
 
     .paper-box-text {
-        flex: 1;
-        min-width: 0;
-
-        padding: 0;
-
-        ul {
-            margin-top: 0;
-        }
-
-        p:first-child {
-            margin-top: 0;
-        }
+        max-width: 100%;
+        order: 1;
     }
-}
 
-
-/* 手机 */
-@media (max-width: 767px) {
-
-    .paper-box {
-        flex-direction: column;
-        gap: 18px;
-
-        padding: 1.5em 0;
-
+    @include breakpoint($medium) {
         .paper-box-image {
-            flex: none;
-            width: 100%;
-
-            > div {
-                width: 100%;
-            }
-
-            img {
-                width: 100%;
-                height: auto;
-            }
+            justify-content: left;
+            min-width: 200px;
+            max-width: 40%;
+            order: 1;
         }
 
         .paper-box-text {
-            width: 100%;
+            justify-content: left;
+            padding-left: 2em;
+            max-width: 60%;
+            order: 2;
         }
     }
 }
 
-
-/* Anchor scroll offset */
-
-$scroll_offset: 2em;
-
-h1:before,
-.anchor:before {
-    content: '';
-
-    display: block;
-    position: relative;
-
-    width: 0;
-    height: $scroll_offset;
-
+$scroll_offset : 2em;
+h1:before, .anchor:before { 
+    content: ''; 
+    display: block; 
+    position: relative; 
+    width: 0; 
+    height: $scroll_offset; 
     margin-top: -$scroll_offset;
 }
+
+.badge {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    position: absolute;
+    margin-top: .5em;
+    margin-left: -.5em;
+    color: white;
+    background-color: #00369f;
+    font-size: .8em;
