@@ -42,66 +42,97 @@
 
 .paper-box {
     display: flex;
-    justify-content: left;
-    align-items: center;
-    flex-direction: row;
-    flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
-    
-    .paper-image{
-        align-items: center;
-        justify-content: center;
-        text-align: center;
-        width: 100%;
-        img {
-            max-width: 800px;
-            box-shadow: 3px 3px 6px #888;
-            object-fit: cover;
-        }
-    }
+    align-items: flex-start;
+    gap: 28px;
 
-    .paper-box-image{
-        justify-content: center;
+    width: 100%;
+    padding: 2em 0;
+    border-bottom: 1px solid #efefef;
+
+    /* 左侧图片 */
+    .paper-box-image {
+        flex: 0 0 220px;
+        width: 220px;
+
         display: flex;
-        width: 100%;
-        order: 2;
+        justify-content: center;
+        align-items: flex-start;
+
+        order: 1;
+
+        > div {
+            position: relative;
+
+            width: 220px;
+            height: 130px;
+
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
         img {
-            max-width: 400px;
+            display: block;
+
+            width: 220px;
+            height: auto;
+            max-height: 130px;
+
+            object-fit: contain;
+
             box-shadow: 3px 3px 6px #888;
-            object-fit: cover;
+        }
+
+        .badge {
+            position: absolute;
+            top: -8px;
+            left: -8px;
+
+            margin: 0;
+            padding: 0.25em 0.8em;
+
+            color: white;
+            background-color: #00369f;
+
+            font-size: 0.8em;
+            z-index: 2;
         }
     }
-    
 
-    .paper-text{
+    /* 右侧文字 */
+    .paper-box-text {
+        flex: 1;
+        min-width: 0;
+        max-width: none;
+
+        padding: 0;
+        order: 2;
+
+        ul {
+            margin-top: 0;
+        }
+    }
+}
+
+
+/* 手机 / 窄屏 */
+@media (max-width: 767px) {
+
+    .paper-box {
+        flex-direction: column;
+        gap: 18px;
+    }
+
+    .paper-box-image {
         width: 100%;
-        order: 1;
+        flex: none;
+
+        justify-content: center;
     }
 
-    .paper-box-text{
-        max-width: 100%;
-        order: 1;
+    .paper-box-text {
+        width: 100%;
     }
-    
-    @include breakpoint($medium) {
-        .paper-box-image{
-            justify-content: left;
-            min-width: 200px;
-            max-width: 40%;
-            order: 1;
-        }
-        
-        .paper-box-text{
-            justify-content: left;
-            padding-left: 2em;
-            max-width: 60%;
-            order: 2;
-        }
-
-    }
-
-
 }
 
 $scroll_offset : 2em;
