@@ -40,6 +40,9 @@ You can find my CV here:[ Yujia Yu’s Curriculum Vitae](../files/CV.pdf).
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">new</div><img src='images/GA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+- MomentMamba: Efficient collaborative state space modeling for joint video moment retrieval and highlight detection<br/>
+**Yujia Yu**, Hongjian Shi, Bingqing Qu, **Big Data Research**    |   [Link](https://www.sciencedirect.com/science/article/pii/S221457962600033X)  |  [paper](../images/Momentmamba.pdf)<br/>
+
 - Hyperbolic Music Transformer for Structured Music Generation<br/>
 Wenkai Huang,**Yujia Yu**, Haizhou Xu, **IEEE Access**    |   [Link](https://ieeexplore.ieee.org/document/10070602?denied=)  |  [paper](../images/Hyperbolic Music Transformer for Structured Music.pdf)<br/>
 
@@ -67,7 +70,7 @@ Haizhou Xu, Jiaqi Wu, **Yujia Yu**, Wenkai Huang, Jiong Ni, **Applied Soft Compu
 
 # 📖 Educations
 - *2020.09 - 2024.07*, Robot Engineering(BE), Guangzhou University.
-- *2024.09 - (now)*,  Computer Science and Technology(MPhil), Beijing Normal-Hong Kong Baptist University.
+- *2024.09 - 2026.07*,  Computer Science and Technology(MPhil), Beijing Normal-Hong Kong Baptist University.
 
 # 🌺 Interest
 - Calligraphy
