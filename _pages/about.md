@@ -36,49 +36,38 @@ You can find my CV here:[ Yujia Yu’s Curriculum Vitae](../files/CV.pdf).
 - *2023.03*: &nbsp;🎉🎉 ‘Hyperbolic Music Transformer for Structured Music Generation’ have been accepted by IEEE Access.
 
 # 📝 Publications 
-<div class='paper-box'>
 
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">new</div>
-      <img src='images/Momentmamba.png' alt="MomentMamba">
-    </div>
-  </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">new</div><img src='images/Momentmamba.png' alt="MomentMamba" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-  <div class='paper-box-text' markdown="1">
+[**MomentMamba: Efficient collaborative state space modeling for joint video moment retrieval and highlight detection**](https://www.sciencedirect.com/science/article/pii/S221457962600033X)
 
-- MomentMamba: Efficient collaborative state space modeling for joint video moment retrieval and highlight detection<br/>
-**Yujia Yu**, Hongjian Shi, Bingqing Qu, **Big Data Research** | [Link](https://www.sciencedirect.com/science/article/pii/S221457962600033X) | [paper](../images/Momentmamba.pdf)
+**Yujia Yu**, Hongjian Shi, Bingqing Qu, **Big Data Research**
+
+[**Paper**](../images/Momentmamba.pdf)
 
 - Joint Video Moment Retrieval (MR) and Highlight Detection (HD) are essential for understanding the ever-growing volume of video content. Existing Transformer-based methods often struggle with misaligned features in complex video-text scenarios and quadratic computational costs. To overcome these bottlenecks, we propose MomentMamba, a unified and efficient framework built upon Selective State Space Models (Mamba). First, we design a multimodal alignment module that integrates Optimal Transport (OT)-based local alignment with a global contrastive strategy, enabling precise and robust semantic alignment between video and text at both token and modality levels. Second, we propose a novel Mamba-based highly-efficient architecture that comprises a Collaborative Mamba module to efficiently capture both modality-specific information and cross-modal interactions, and a Mamba decoder that enables joint MR and HD prediction, which effectively avoids high computational costs.
-
-  </div>
-
 </div>
-  
-<div class='paper-box'>
-
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">new</div>
-      <img src='images/Momentmamba.png' alt="MomentMamba">
-    </div>
-  </div>
-
-  <div class='paper-box-text' markdown="1">
-
-- MomentMamba: Efficient collaborative state space modeling for joint video moment retrieval and highlight detection<br/>
-**Yujia Yu**, Hongjian Shi, Bingqing Qu, **Big Data Research** | [Link](https://www.sciencedirect.com/science/article/pii/S221457962600033X) | [paper](../images/Momentmamba.pdf)
-
-- Joint Video Moment Retrieval (MR) and Highlight Detection (HD) are essential for understanding the ever-growing volume of video content. Existing Transformer-based methods often struggle with misaligned features in complex video-text scenarios and quadratic computational costs. To overcome these bottlenecks, we propose MomentMamba, a unified and efficient framework built upon Selective State Space Models (Mamba). First, we design a multimodal alignment module that integrates Optimal Transport (OT)-based local alignment with a global contrastive strategy, enabling precise and robust semantic alignment between video and text at both token and modality levels. Second, we propose a novel Mamba-based highly-efficient architecture that comprises a Collaborative Mamba module to efficiently capture both modality-specific information and cross-modal interactions, and a Mamba decoder that enables joint MR and HD prediction, which effectively avoids high computational costs.
-
-  </div>
-
 </div>
 
-- MRP-Net: Seizure detection method based on modified recurrence plot and additive attention convolution neural network <br/> Wenkai Huang, Haizhou Xu, **Yujia Yu**, **Biomedical Signal Processing and Control** | [Link](https://www.sciencedirect.com/science/article/pii/S1746809423005980) | [paper](../images/MRP-Net Seizure detection method based on modifie.pdf) <br/>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">new</div><img src='images/GA.jpg' alt="Hyperbolic Music Transformer" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- Occult lymph node metastasis prediction in non-small cell lung cancer based self-supervised pretrained and hyperbolic theory <br/> Haizhou Xu, Jiaqi Wu, **Yujia Yu**, Wenkai Huang, Jiong Ni, **Applied Soft Computing** | [Link](https://www.sciencedirect.com/science/article/abs/pii/S1568494624007233?via%3Dihub) | [paper](../images/Self-Supervised Hyperbolic Metric Few-Shot Learning for Occult Lymph Node Metastasis Prediction in NSCLC.pdf) <br/>
+[**Hyperbolic Music Transformer for Structured Music Generation**](https://ieeexplore.ieee.org/document/10070602?denied=)
+
+Wenkai Huang, **Yujia Yu**, Haizhou Xu, **IEEE Access**
+
+[**Paper**](../images/Hyperbolic Music Transformer for Structured Music.pdf)
+
+- This paper proposes a Hyperbolic Music Transformer model, which considers the hierarchy in music and models the structured components of music in hyperbolic space. Meanwhile, in order for the network to have sufficient capacity to learn music data with hierarchical and power regular structure, a hyperbolic attention mechanism is proposed, which is an extension of the attention mechanism in hyperbolic space based on the definition of hyperboloid and Klein model.
+</div>
+</div>
+
+- **MRP-Net: Seizure detection method based on modified recurrence plot and additive attention convolution neural network**  
+  Wenkai Huang, Haizhou Xu, **Yujia Yu**, **Biomedical Signal Processing and Control** | [Link](https://www.sciencedirect.com/science/article/pii/S1746809423005980) | [paper](../images/MRP-Net Seizure detection method based on modifie.pdf)
+
+- **Occult lymph node metastasis prediction in non-small cell lung cancer based self-supervised pretrained and hyperbolic theory**  
+  Haizhou Xu, Jiaqi Wu, **Yujia Yu**, Wenkai Huang, Jiong Ni, **Applied Soft Computing** | [Link](https://www.sciencedirect.com/science/article/abs/pii/S1568494624007233?via%3Dihub) | 
   
 # 🏅 Honors and Awards
 - *2024.04*   Second-Class Scholarship. 
