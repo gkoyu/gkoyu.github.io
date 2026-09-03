@@ -36,7 +36,6 @@ You can find my CV here:[ Yujia Yu’s Curriculum Vitae](../files/CV.pdf).
 - *2023.03*: &nbsp;🎉🎉 ‘Hyperbolic Music Transformer for Structured Music Generation’ have been accepted by IEEE Access.
 
 # 📝 Publications 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">new</div><img src='images/Momentmamba.png' alt="MomentMamba" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -67,7 +66,8 @@ Wenkai Huang, **Yujia Yu**, Haizhou Xu, **IEEE Access**
   Wenkai Huang, Haizhou Xu, **Yujia Yu**, **Biomedical Signal Processing and Control** | [Link](https://www.sciencedirect.com/science/article/pii/S1746809423005980) | [paper](../images/MRP-Net Seizure detection method based on modifie.pdf)
 
 - **Occult lymph node metastasis prediction in non-small cell lung cancer based self-supervised pretrained and hyperbolic theory**  
-  Haizhou Xu, Jiaqi Wu, **Yujia Yu**, Wenkai Huang, Jiong Ni, **Applied Soft Computing** | [Link](https://www.sciencedirect.com/science/article/abs/pii/S1568494624007233?via%3Dihub) | 
+  Haizhou Xu, Jiaqi Wu, **Yujia Yu**, Wenkai Huang, Jiong Ni, **Applied Soft Computing** | [Link](https://www.sciencedirect.com/science/article/abs/pii/S1568494624007233?via%3Dihub) | [paper](../images/Self-Supervised Hyperbolic Metric Few-Shot Learning for Occult Lymph Node Metastasis Prediction in NSCLC.pdf)
+
   
 # 🏅 Honors and Awards
 - *2024.04*   Second-Class Scholarship. 
